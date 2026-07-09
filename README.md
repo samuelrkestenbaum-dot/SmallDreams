@@ -19,6 +19,7 @@ This repository contains the first finished episode, the launch plan, and the bu
 
 - [Episode 1 video, captions, poster, and YouTube publish pack](episodes/episode-01-henry-ford/)
 - [Launch execution pack](docs/launch_execution_pack.md)
+- [Episode 1 distribution queue](docs/distribution_execution_queue.md)
 - [Build-in-public short scripts](docs/build_in_public_scripts.md)
 - [30-day content calendar](docs/30_day_calendar.csv)
 - [Preview page](index.html)
@@ -54,4 +55,3 @@ Then publish the first build-in-public companion post within 24 hours:
 ## Notes
 
 The finished public cut is in `episodes/episode-01-henry-ford/`. Earlier narrator tests and temporary generation assets are intentionally left out of this repo.
-
